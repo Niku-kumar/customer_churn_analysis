@@ -30,9 +30,7 @@ customer-churn-analysis/
 ├── data/
 ├── notebooks/
 ├── visuals/
-├── presentation/
 ├── README.md
-└── requirements.txt
 
 ---
 
@@ -104,17 +102,17 @@ The analysis estimated approximately
 
 ![Monthly Churn Trend](visuals/monthly_churn_trend.png)
 
-### Churn by Plan Type
+### Churn_Rate_by_Plan
 
-![Churn by Plan](visuals/churn_by_plan.png)
+![Churn_Rate_by_Plan](visuals/Churn_Rate_by_Plan.png)
 
-### Churn by State
+### Churn_Correlation_Heatmap
 
-![Churn by State](visuals/churn_by_state.png)
+![Churn_Correlation_Heatmap](visuals/Churn_Correlation_Heatmap.png)
 
-### Correlation Heatmap
+### Churn_Risk_Analysis.png
 
-![Correlation Heatmap](visuals/correlation_heatmap.png)
+![Churn_Risk_Analysis](visuals/Churn_Risk_Analysis.png)
 
 ---
 
@@ -134,13 +132,9 @@ The analysis estimated approximately
 - `customer_churn.db` – SQLite database
 - `exported_churn_data.csv` – Processed dataset
 - `visuals/` – Analysis charts
-- `presentation/` – Project presentation
 
 ---
 
 ## 👨‍💻 Author
 
-Your Name
-
-[LinkedIn](YOUR_LINKEDIN_URL)
-[GitHub](YOUR_GITHUB_URL)
+Niku Kumar Yadav
