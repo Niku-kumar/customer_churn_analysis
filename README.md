@@ -23,13 +23,23 @@ business insights that can help improve customer retention.
 
 ---
 
-## 📂 Project Structure
+## 📁 Project Structure
 
+```text
 customer-churn-analysis/
 │
 ├── data/
+│   └── customer_churn.db
+│
 ├── notebooks/
+│   └── Churn_analysis.ipynb
+│
 ├── visuals/
+│   ├── monthly_churn_trend.png
+│   ├── churn_Rate_by_plan.png
+│   ├── Churn_correlation_heatmap.png
+│   └── churn_risk_analysis.png
+│
 ├── README.md
 
 ---
