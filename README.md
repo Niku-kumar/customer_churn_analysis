@@ -121,7 +121,7 @@ The analysis estimated approximately
 
 ![Churn_Correlation_Heatmap](visuals/Churn_Correlation_Heatmap.png)
 
-### Churn_Risk_Analysis.png
+### Churn_Risk_Analysis
 
 ![Churn_Risk_Analysis](visuals/Churn_Risk_Analysis.png)
 
