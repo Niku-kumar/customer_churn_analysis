@@ -23,9 +23,6 @@ business insights that can help improve customer retention.
 
 ---
 
-## 📁 Project Structure
-
-```text
 customer-churn-analysis/
 │
 ├── data/
@@ -112,17 +109,17 @@ The analysis estimated approximately
 
 ![Monthly Churn Trend](visuals/monthly_churn_trend.png)
 
-### Churn_Rate_by_Plan
+### Churn Rate by Plan
 
-![Churn_Rate_by_Plan](visuals/Churn_Rate_by_Plan.png)
+![Churn Rate by Plan](visuals/churn_Rate_by_plan.png)
 
-### Churn_Correlation_Heatmap
+### Churn Correlation Heatmap
 
-![Churn_Correlation_Heatmap](visuals/Churn_Correlation_Heatmap.png)
+![Churn Correlation Heatmap](visuals/Churn_correlation_heatmap.png)
 
-### Churn_Risk_Analysis.png
+### Churn Risk Analysis
 
-![Churn_Risk_Analysis](visuals/Churn_Risk_Analysis.png)
+![Churn Risk Analysis](visuals/churn_risk_analysis.png)
 
 ---
 
